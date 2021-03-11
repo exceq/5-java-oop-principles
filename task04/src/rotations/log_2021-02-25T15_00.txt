@@ -1,0 +1,10 @@
+[INFO] 2021.02.25 15:00:16 CoolName - info
+
+[WARNING] 2021.02.25 15:00:16 CoolName - warning
+
+[ERROR] 2021.02.25 15:00:16 CoolName - error
+
+[ERROR] 2021.02.25 15:00:16 CoolName - error2
+
+[ERROR] 2021.02.25 15:00:16 CoolName - 5 log should double logs
+

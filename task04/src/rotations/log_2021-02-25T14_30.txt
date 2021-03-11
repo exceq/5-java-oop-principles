@@ -1,0 +1,6 @@
+[INFO] 2021.02.25 14:30:44 CoolName - info
+
+[WARNING] 2021.02.25 14:30:44 CoolName - warning
+
+[ERROR] 2021.02.25 14:30:44 CoolName - error
+

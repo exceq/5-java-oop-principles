@@ -44,7 +44,7 @@ public class Bill {
 
     @Override
     public String toString() {
-        StringBuilder sb = new StringBuilder("Счет к оплате\n");
+        StringBuilder sb = new StringBuilder("Bill To Pay\n");
         for(BillItem item : items) {
             sb.append(item.item.getName()).append('(').append(item.amount).append(')');
             sb.append('\n');
